@@ -1,0 +1,8 @@
+opencv-python
+cvzone
+ultralytics
+requests
+beautifulsoup4
+google-genai
+streamlit
+face_recognition
